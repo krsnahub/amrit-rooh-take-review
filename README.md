@@ -1,5 +1,3 @@
-# Amrit Rooh — Volume 1 take review
+# Amrit Rooh — Volume 1 review
 
-Temporary review of nine songs, two takes per song. MP3s are removable release assets, not Git history. Studio WAVs remain local. All takes are provisional; exact audible words and repetitions require listening approval.
-
-Select a song, compare takes, heart your preference and use Share choices or Export review file. No audio is deleted by this page.
+Nine songs plus Jot and Daras under Additional for selection, two takes each, 22 MP3 listening copies. Audio lives in removable release assets. Choices remain provisional and do not delete studio files.

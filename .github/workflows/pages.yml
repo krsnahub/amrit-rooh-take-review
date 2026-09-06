@@ -21,13 +21,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release download preview-2026-09-07 --repo "$GITHUB_REPOSITORY" --pattern amrit-rooh-preview-media.tar.gz
+          gh release download preview-additional-2026-09-07 --repo "$GITHUB_REPOSITORY" --pattern amrit-rooh-preview-media-additional.tar.gz
           sha256sum -c media.sha256
           mkdir site
           cp index.html app.js style.css album.json site/
           cp -R lyrics site/
-          tar -xzf amrit-rooh-preview-media.tar.gz -C site
-          test "$(find site/audio -name '*.mp3' | wc -l)" -eq 18
+          tar -xzf amrit-rooh-preview-media-additional.tar.gz -C site
+          test "$(find site/audio -name '*.mp3' | wc -l)" -eq 22
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

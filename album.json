@@ -327,6 +327,68 @@
           "lyrics_src": "lyrics/66f530dd-dbea-475b-baf3-63de17f7e521.txt"
         }
       ]
+    },
+    {
+      "id": "11",
+      "title": "Jot",
+      "additional": true,
+      "takes": [
+        {
+          "id": "39802584-f569-4ee0-b17d-9c75e3ea95c9",
+          "label": "Take 1",
+          "duration": 104.330667,
+          "src": "audio/39802584-f569-4ee0-b17d-9c75e3ea95c9.mp3",
+          "lyrics_src": "lyrics/39802584-f569-4ee0-b17d-9c75e3ea95c9.txt",
+          "wav_sha256": "ae587bb9164017ffd058403a196d109fca34adf3d510692f859b656c1a3792ae",
+          "source_sha256": "ae587bb9164017ffd058403a196d109fca34adf3d510692f859b656c1a3792ae",
+          "lyrics_sha256": "388aa647076a040165273b8cd66eba9c1ac2c4d8f8ebf0920b4cbcc74f770bcf",
+          "preview_sha256": "694dae5a7b00bebc0e267bc6e1b02d6436ec00f271d75f3a4f42ec77d7ae62e3",
+          "preview_bytes": 4176044
+        },
+        {
+          "id": "55118472-41f2-4a1d-bc10-dd32ee14083e",
+          "label": "Take 2",
+          "duration": 157.696,
+          "src": "audio/55118472-41f2-4a1d-bc10-dd32ee14083e.mp3",
+          "lyrics_src": "lyrics/55118472-41f2-4a1d-bc10-dd32ee14083e.txt",
+          "wav_sha256": "001df2c8d92ee08eef36c3dca37ea88cdf6463cd8418daf8063d5b58996d90b1",
+          "source_sha256": "001df2c8d92ee08eef36c3dca37ea88cdf6463cd8418daf8063d5b58996d90b1",
+          "lyrics_sha256": "388aa647076a040165273b8cd66eba9c1ac2c4d8f8ebf0920b4cbcc74f770bcf",
+          "preview_sha256": "74e84f49bcf8c6aeb1f5ee6a1ce7ea7ea6c2010c92f9114a5f207e71797834f8",
+          "preview_bytes": 6310124
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Daras",
+      "additional": true,
+      "takes": [
+        {
+          "id": "a18e4468-70f3-4b67-aad2-8ca5f35cd4fb",
+          "label": "Take 1",
+          "duration": 180.0,
+          "src": "audio/a18e4468-70f3-4b67-aad2-8ca5f35cd4fb.mp3",
+          "lyrics_src": "lyrics/a18e4468-70f3-4b67-aad2-8ca5f35cd4fb.txt",
+          "wav_sha256": "2b55ef55a6b198658d7594828460f0ec35e901ba0dabcbb66cd04011041a6604",
+          "source_sha256": "2b55ef55a6b198658d7594828460f0ec35e901ba0dabcbb66cd04011041a6604",
+          "lyrics_sha256": "4099fe4cc6729891c92572e45336d2898b4d2970568dc8b93c988d511a950c71",
+          "preview_sha256": "523bbf11d0f58751c1da5aee9626666424a9e605082a9afec7a17c30611a5315",
+          "preview_bytes": 7201964
+        },
+        {
+          "id": "28bef41e-72f6-4d3c-bf42-789147e534bc",
+          "label": "Take 2",
+          "duration": 181.013333,
+          "src": "audio/28bef41e-72f6-4d3c-bf42-789147e534bc.mp3",
+          "lyrics_src": "lyrics/28bef41e-72f6-4d3c-bf42-789147e534bc.txt",
+          "wav_sha256": "9a0cf0ad7486afffb010d8252261f7ee57769bff0dc5f7e6546e4bb34320d3ef",
+          "source_sha256": "9a0cf0ad7486afffb010d8252261f7ee57769bff0dc5f7e6546e4bb34320d3ef",
+          "lyrics_sha256": "4099fe4cc6729891c92572e45336d2898b4d2970568dc8b93c988d511a950c71",
+          "preview_sha256": "1a2e8dd10b4dad678f635a5b134803b55dd3c1ad5a92e5b3334f76ef9c8051aa",
+          "preview_bytes": 7243244
+        }
+      ]
     }
   ]
 }
