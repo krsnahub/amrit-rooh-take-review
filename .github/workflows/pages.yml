@@ -1,0 +1,36 @@
+name: Publish temporary review
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Prepare listening files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download preview-2026-09-07 --repo "$GITHUB_REPOSITORY" --pattern amrit-rooh-preview-media.tar.gz
+          sha256sum -c media.sha256
+          mkdir site
+          cp index.html app.js style.css album.json site/
+          cp -R lyrics site/
+          tar -xzf amrit-rooh-preview-media.tar.gz -C site
+          test "$(find site/audio -name '*.mp3' | wc -l)" -eq 18
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+          retention-days: 1
+      - uses: actions/deploy-pages@v4
+        id: deployment

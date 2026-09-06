@@ -1,0 +1,332 @@
+{
+  "id": "amrit-rooh-volume1-review-20260907",
+  "artist": "Amrit Rooh",
+  "title": "Volume 1",
+  "format": "320 kbps MP3 · draft review",
+  "tracks": [
+    {
+      "id": "02",
+      "title": "Ardaas",
+      "takes": [
+        {
+          "id": "df389827-58c0-4ff3-a942-04687f028914",
+          "label": "Take 1",
+          "duration": 179.264,
+          "src": "audio/df389827-58c0-4ff3-a942-04687f028914.mp3",
+          "source_format": "wav",
+          "source_sha256": "2ef36fbd96204d66d51c2bf1b0d3a09b41aff15c6bfee019e1776cda6796598a",
+          "wav_sha256": "2ef36fbd96204d66d51c2bf1b0d3a09b41aff15c6bfee019e1776cda6796598a",
+          "lyrics_sha256": "b81b2c3a54d3981f07214e2620371cd177b7f86b500d249a923a47fa6a95ad54",
+          "preview_sha256": "5b8e2951bae01e814fe4a6a9f278af4dfe69ebc32990518f62b1d7d7391ad29b",
+          "preview_bytes": 7173164,
+          "returned_lyric_lines": 12,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/df389827-58c0-4ff3-a942-04687f028914.txt"
+        },
+        {
+          "id": "989a696f-1ace-4497-939f-59abd5786e4d",
+          "label": "Take 2",
+          "duration": 152.138667,
+          "src": "audio/989a696f-1ace-4497-939f-59abd5786e4d.mp3",
+          "source_format": "wav",
+          "source_sha256": "c94a540d457ee58b3c781d51d5010a4bba5160887d04f2bfed69457b28d72f29",
+          "wav_sha256": "c94a540d457ee58b3c781d51d5010a4bba5160887d04f2bfed69457b28d72f29",
+          "lyrics_sha256": "b81b2c3a54d3981f07214e2620371cd177b7f86b500d249a923a47fa6a95ad54",
+          "preview_sha256": "08fb03958a755db09ff9cdf1383d82e8615f56be362d73d6e5117dd429a6dd42",
+          "preview_bytes": 6088364,
+          "returned_lyric_lines": 12,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/989a696f-1ace-4497-939f-59abd5786e4d.txt"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Hazoori",
+      "takes": [
+        {
+          "id": "593fe863-35d7-433c-841d-46141d059346",
+          "label": "Take 1",
+          "duration": 160.778667,
+          "src": "audio/593fe863-35d7-433c-841d-46141d059346.mp3",
+          "source_format": "wav",
+          "source_sha256": "0767d7b94d504f4a38182705ba627273bfdeff01bb945f75e143fda5fca13b86",
+          "wav_sha256": "0767d7b94d504f4a38182705ba627273bfdeff01bb945f75e143fda5fca13b86",
+          "lyrics_sha256": "557f4c9dd3dc491f59082e17ab6777bdc50c5d78b05d2edc6a5405b762285b1a",
+          "preview_sha256": "f926ae4b48b76b16699723d215b22047300a2e276d9921ef5de7b8a5fc7dabe0",
+          "preview_bytes": 6433964,
+          "returned_lyric_lines": 16,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/593fe863-35d7-433c-841d-46141d059346.txt"
+        },
+        {
+          "id": "0098e112-00da-4346-8dd3-3fdce6ed0e3c",
+          "label": "Take 2",
+          "duration": 156.746667,
+          "src": "audio/0098e112-00da-4346-8dd3-3fdce6ed0e3c.mp3",
+          "source_format": "wav",
+          "source_sha256": "d93d6e781f51607cf033916ddc939196a34d1ece25dbb7f442e803bf68ba0e2c",
+          "wav_sha256": "d93d6e781f51607cf033916ddc939196a34d1ece25dbb7f442e803bf68ba0e2c",
+          "lyrics_sha256": "557f4c9dd3dc491f59082e17ab6777bdc50c5d78b05d2edc6a5405b762285b1a",
+          "preview_sha256": "f2e09e83ae8175e68e691dc76a47cc00cefda8ccda1f9e9c497543bbad8b15a8",
+          "preview_bytes": 6272684,
+          "returned_lyric_lines": 16,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/0098e112-00da-4346-8dd3-3fdce6ed0e3c.txt"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Liv",
+      "takes": [
+        {
+          "id": "1ca2216a-4ff9-410c-83f3-d4cb519d0c9a",
+          "label": "Take 1",
+          "duration": 146.592,
+          "src": "audio/1ca2216a-4ff9-410c-83f3-d4cb519d0c9a.mp3",
+          "source_format": "wav",
+          "source_sha256": "bf832934eef3b6df5271c7d46502777908dbb5184214d9c50384ad766f2eec18",
+          "wav_sha256": "bf832934eef3b6df5271c7d46502777908dbb5184214d9c50384ad766f2eec18",
+          "lyrics_sha256": "0ee4471b76758b5dca1e9e2e007879c09d895b37e491e39d10d7fe178684788a",
+          "preview_sha256": "7da3bd58046ea11bd028603e52643ee140ffe81edf1d61f89a926d8115137925",
+          "preview_bytes": 5865644,
+          "returned_lyric_lines": 8,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/1ca2216a-4ff9-410c-83f3-d4cb519d0c9a.txt"
+        },
+        {
+          "id": "327d6af6-4a74-46d4-8754-b17abdf8c3f4",
+          "label": "Take 2",
+          "duration": 155.765333,
+          "src": "audio/327d6af6-4a74-46d4-8754-b17abdf8c3f4.mp3",
+          "source_format": "wav",
+          "source_sha256": "761a4f01c18dd0778e4f250c0adb8204543a5b4ad488022735f6cd002057481f",
+          "wav_sha256": "761a4f01c18dd0778e4f250c0adb8204543a5b4ad488022735f6cd002057481f",
+          "lyrics_sha256": "0ee4471b76758b5dca1e9e2e007879c09d895b37e491e39d10d7fe178684788a",
+          "preview_sha256": "bdbdf2de8fba53185c1b5699a9264dcf0cc879539707134ab0233ea6ac0bf344",
+          "preview_bytes": 6233324,
+          "returned_lyric_lines": 8,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/327d6af6-4a74-46d4-8754-b17abdf8c3f4.txt"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Nadar",
+      "takes": [
+        {
+          "id": "83214760-612d-4908-a712-ae1bb4f2bdc8",
+          "label": "Take 1",
+          "duration": 176.650667,
+          "src": "audio/83214760-612d-4908-a712-ae1bb4f2bdc8.mp3",
+          "source_format": "wav",
+          "source_sha256": "689d6432dfff3f777a2cdf505a8d77d668560f4d88a430098d4da3b21ec90eb5",
+          "wav_sha256": "689d6432dfff3f777a2cdf505a8d77d668560f4d88a430098d4da3b21ec90eb5",
+          "lyrics_sha256": "ed2bf1bef29c5744b8de35c982b836bda3e6c1fa1ae99f7a8c2cf7a762ba62a0",
+          "preview_sha256": "a082885a52baf4a6a527ea00327fce9af3f522ed99bc76f651cd070b930983f1",
+          "preview_bytes": 7068524,
+          "returned_lyric_lines": 12,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/83214760-612d-4908-a712-ae1bb4f2bdc8.txt"
+        },
+        {
+          "id": "a0e19de8-7263-44f3-8f05-1268116c2e59",
+          "label": "Take 2",
+          "duration": 128.736,
+          "src": "audio/a0e19de8-7263-44f3-8f05-1268116c2e59.mp3",
+          "source_format": "wav",
+          "source_sha256": "8b9fadf71334893257a51a8edec9b43ad525f3b9b10f2a2244692389aa865704",
+          "wav_sha256": "8b9fadf71334893257a51a8edec9b43ad525f3b9b10f2a2244692389aa865704",
+          "lyrics_sha256": "ed2bf1bef29c5744b8de35c982b836bda3e6c1fa1ae99f7a8c2cf7a762ba62a0",
+          "preview_sha256": "4a47e35b1423e85c2dfcfda083556f412e5bf398fb5e72012f236123e9a13173",
+          "preview_bytes": 5151404,
+          "returned_lyric_lines": 12,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/a0e19de8-7263-44f3-8f05-1268116c2e59.txt"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Charan",
+      "takes": [
+        {
+          "id": "ebb40a39-31c7-404a-99f8-89b213650689",
+          "label": "Take 1",
+          "duration": 117.301333,
+          "src": "audio/ebb40a39-31c7-404a-99f8-89b213650689.mp3",
+          "source_format": "wav",
+          "source_sha256": "5ee657fb9d5246ca242f3597bc8aac88b826f6f521c38c75d87a77146a5221de",
+          "wav_sha256": "5ee657fb9d5246ca242f3597bc8aac88b826f6f521c38c75d87a77146a5221de",
+          "lyrics_sha256": "aa9875b3a5f6902d732b9c63534458622f313f74f3da5b24bb64684092eaf4e8",
+          "preview_sha256": "8626cc0722d17ffb390a36f4a7a01d3e5742c7a90e21e316aa51479a3f759ac4",
+          "preview_bytes": 4694444,
+          "returned_lyric_lines": 10,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/ebb40a39-31c7-404a-99f8-89b213650689.txt"
+        },
+        {
+          "id": "834a167a-d91d-48dc-b1d6-6312eb0109a1",
+          "label": "Take 2",
+          "duration": 121.269333,
+          "src": "audio/834a167a-d91d-48dc-b1d6-6312eb0109a1.mp3",
+          "source_format": "wav",
+          "source_sha256": "43b3dcee67285a9bd30dc88a9dbd6142af631ad2d66098ec9e357c6c906b0477",
+          "wav_sha256": "43b3dcee67285a9bd30dc88a9dbd6142af631ad2d66098ec9e357c6c906b0477",
+          "lyrics_sha256": "aa9875b3a5f6902d732b9c63534458622f313f74f3da5b24bb64684092eaf4e8",
+          "preview_sha256": "fd73517469847fa33ce506c99bc6ee73f1a53fbb9876e922ddf46f44d4d62774",
+          "preview_bytes": 4852844,
+          "returned_lyric_lines": 10,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/834a167a-d91d-48dc-b1d6-6312eb0109a1.txt"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Sangat",
+      "takes": [
+        {
+          "id": "96cf42e1-c543-481b-a77a-c883b54051f5",
+          "label": "Take 1",
+          "duration": 182.442667,
+          "src": "audio/96cf42e1-c543-481b-a77a-c883b54051f5.mp3",
+          "source_format": "wav",
+          "source_sha256": "df53b9b17c521451948bf461112308f07f0f5004cf2933bcbffb40dc9318207b",
+          "wav_sha256": "df53b9b17c521451948bf461112308f07f0f5004cf2933bcbffb40dc9318207b",
+          "lyrics_sha256": "c38afc0f46463ef8276f314a1a7622e71c815b7ed18a52606940b40e7b99842e",
+          "preview_sha256": "59597c407a6ffa618e0a2731864a81d0ed9ae862752c095beca59028afeb15a6",
+          "preview_bytes": 7299884,
+          "returned_lyric_lines": 16,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/96cf42e1-c543-481b-a77a-c883b54051f5.txt"
+        },
+        {
+          "id": "228523c5-b8f5-4617-80b0-79a8f12039c3",
+          "label": "Take 2",
+          "duration": 179.168,
+          "src": "audio/228523c5-b8f5-4617-80b0-79a8f12039c3.mp3",
+          "source_format": "wav",
+          "source_sha256": "30b18d4660c5270ff1e5c0d53c7f49e3b7905003ab6f3ffd54d057699bc77fe6",
+          "wav_sha256": "30b18d4660c5270ff1e5c0d53c7f49e3b7905003ab6f3ffd54d057699bc77fe6",
+          "lyrics_sha256": "c38afc0f46463ef8276f314a1a7622e71c815b7ed18a52606940b40e7b99842e",
+          "preview_sha256": "846648150b5f1f56c1c5f5083b7a0b153d1d6b6d0398f821a03b8dc771f6c4b0",
+          "preview_bytes": 7169324,
+          "returned_lyric_lines": 16,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/228523c5-b8f5-4617-80b0-79a8f12039c3.txt"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Antar",
+      "takes": [
+        {
+          "id": "c251642f-82cd-444f-bb90-42719dd2cee7",
+          "label": "Take 1",
+          "duration": 118.357333,
+          "src": "audio/c251642f-82cd-444f-bb90-42719dd2cee7.mp3",
+          "source_format": "wav",
+          "source_sha256": "8badb51e650f000c58e1bca7feee1ba998039af852042a945c5c34a91d08c82c",
+          "wav_sha256": "8badb51e650f000c58e1bca7feee1ba998039af852042a945c5c34a91d08c82c",
+          "lyrics_sha256": "80ced2c6d6825293f98ba518f563eb15643bafb197b2252ae86068cdbd232637",
+          "preview_sha256": "1bced4dbc00c73be2d63b42cdb6db6996224c02528f986bbf6e79e995a545583",
+          "preview_bytes": 4736684,
+          "returned_lyric_lines": 8,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/c251642f-82cd-444f-bb90-42719dd2cee7.txt"
+        },
+        {
+          "id": "4ff9536c-a60c-4413-b38e-d5d2906cee98",
+          "label": "Take 2",
+          "duration": 179.210667,
+          "src": "audio/4ff9536c-a60c-4413-b38e-d5d2906cee98.mp3",
+          "source_format": "wav",
+          "source_sha256": "8a412734770da59d8d1e6436e5654e7b030f1e241ee47464e9e4bbf8df6a7000",
+          "wav_sha256": "8a412734770da59d8d1e6436e5654e7b030f1e241ee47464e9e4bbf8df6a7000",
+          "lyrics_sha256": "80ced2c6d6825293f98ba518f563eb15643bafb197b2252ae86068cdbd232637",
+          "preview_sha256": "e01ddac99588193c2ecacbc441622feb2a1ce2fa926f70e962ffe8a7ed7efaf0",
+          "preview_bytes": 7171244,
+          "returned_lyric_lines": 8,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/4ff9536c-a60c-4413-b38e-d5d2906cee98.txt"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Saran",
+      "takes": [
+        {
+          "id": "ddbed7d3-a26e-49b4-bea6-1efc3a4c8558",
+          "label": "Take 1",
+          "duration": 157.301333,
+          "src": "audio/ddbed7d3-a26e-49b4-bea6-1efc3a4c8558.mp3",
+          "source_format": "wav",
+          "source_sha256": "84f8860baad9b0b8918ab396e1afe76068485f0a3889ae24663dd59e2775065a",
+          "wav_sha256": "84f8860baad9b0b8918ab396e1afe76068485f0a3889ae24663dd59e2775065a",
+          "lyrics_sha256": "7974e609a1e757ee1778a152a1e1a68590396eb2eb206379b096d4df8e7b9a0d",
+          "preview_sha256": "715664333a0db6bfef728c9452e3e5ad0412478ca7e9bef7a17f96f6402e3cdc",
+          "preview_bytes": 6294764,
+          "returned_lyric_lines": 12,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/ddbed7d3-a26e-49b4-bea6-1efc3a4c8558.txt"
+        },
+        {
+          "id": "55d93511-bdfb-4c42-8453-c0cc1a6529ed",
+          "label": "Take 2",
+          "duration": 158.965333,
+          "src": "audio/55d93511-bdfb-4c42-8453-c0cc1a6529ed.mp3",
+          "source_format": "wav",
+          "source_sha256": "7037f85347c2bb980ae3d4d57956cb19d8b86865ace4cfe38134d11cdae1b728",
+          "wav_sha256": "7037f85347c2bb980ae3d4d57956cb19d8b86865ace4cfe38134d11cdae1b728",
+          "lyrics_sha256": "7974e609a1e757ee1778a152a1e1a68590396eb2eb206379b096d4df8e7b9a0d",
+          "preview_sha256": "8d322f508ccae2c56ec11d2a61fe638d0eac606aaae117df8513a15321522e53",
+          "preview_bytes": 6361004,
+          "returned_lyric_lines": 12,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/55d93511-bdfb-4c42-8453-c0cc1a6529ed.txt"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Amrit Vela",
+      "takes": [
+        {
+          "id": "85147d67-4ef5-4964-8c9f-a8d1367e179f",
+          "label": "Take 1",
+          "duration": 160.298667,
+          "src": "audio/85147d67-4ef5-4964-8c9f-a8d1367e179f.mp3",
+          "source_format": "wav",
+          "source_sha256": "80240868ac9d5de9f553bf767733b5149408c627ddf0cee3d9991d4eb4d37cd2",
+          "wav_sha256": "80240868ac9d5de9f553bf767733b5149408c627ddf0cee3d9991d4eb4d37cd2",
+          "lyrics_sha256": "bd7d775044a8d79010d9595993bedabcda80b7ee306d623621566db73bbc70cf",
+          "preview_sha256": "a76f9723b8b930697aa1149c95aee4e57ba9b8415c3e3b4bc32ca198d4566b2b",
+          "preview_bytes": 6414764,
+          "returned_lyric_lines": 16,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/85147d67-4ef5-4964-8c9f-a8d1367e179f.txt"
+        },
+        {
+          "id": "66f530dd-dbea-475b-baf3-63de17f7e521",
+          "label": "Take 2",
+          "duration": 168.064,
+          "src": "audio/66f530dd-dbea-475b-baf3-63de17f7e521.mp3",
+          "source_format": "wav",
+          "source_sha256": "d96d031de1ebf6738c509419a197759e2166015f46336e1b05a67755eeae7365",
+          "wav_sha256": "d96d031de1ebf6738c509419a197759e2166015f46336e1b05a67755eeae7365",
+          "lyrics_sha256": "bd7d775044a8d79010d9595993bedabcda80b7ee306d623621566db73bbc70cf",
+          "preview_sha256": "4064a9947ba0fdc6147c1b30093498cafebff4ea5018ada70e370974705d02a1",
+          "preview_bytes": 6724844,
+          "returned_lyric_lines": 16,
+          "lyrics_status": "Generator-returned mantra text; audible verification pending",
+          "lyrics_src": "lyrics/66f530dd-dbea-475b-baf3-63de17f7e521.txt"
+        }
+      ]
+    }
+  ]
+}
